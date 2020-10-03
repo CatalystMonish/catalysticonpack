@@ -1,14 +1,44 @@
 [
   {
-    "name": "Sunset",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png"
+    "name": "Astronaut",
+    "author": "Adam Miller",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Adam%20Miller.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Adam%20Miller.webp"
   },
   {
-    "name": "Night City",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png"
+    "name": "Space",
+    "author": "Alexander Andrews",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Alexander%20Andrews.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Alexander%20Andrews.webp"
+  },
+  {
+    "name": "Red Ocean",
+    "author": "Alexander Milis",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Alexander%20Mils.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Alexander%20Mils.webp"
+  },
+  {
+    "name": "Sunset",
+    "author": "Jason Blackeye",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Jason%20Blackeye.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Jason%20Blackeye.webp"
+  },
+  {
+    "name": "Lake",
+    "author": "Kalle Kortelainen",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Kalle%20Kortelainen.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Kalle%20Kortelainen.webp"
+  },
+  {
+    "name": "City",
+    "author": "Matthew Henry",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Matthew%20Henry.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Matthew%20Henry.webp"
+  },
+  {
+    "name": "Rockets",
+    "author": "Sawyer Bensgtson",
+    "url": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Sawyer%20Bengtson.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/CatalystMonish/catalysticonpack/Wallpapers/Sawyer%20Bengtson.webp"
   }
   ]
